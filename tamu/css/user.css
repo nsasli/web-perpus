@@ -1,0 +1,12 @@
+#promo
+{
+	text-align: center;
+	background-image: url(../images/background.jpg);
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: center;
+	background-repeat: no-repeat;
+	min-height: 640px;
+	border-radius: 20px;
+	background-color: rgb(255,255,255,0.75);
+}
